@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **agraw104@gmail.com**
 
-- ⚡ Fun fact **Apart from the programming languages, I can speak 4 languages - English, Hindi, Gujarati, and Marwari.**
+- ⚡ Fun fact: Apart from the programming languages, I can speak 4 languages - English, Hindi, Gujarati, and Marwari.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
