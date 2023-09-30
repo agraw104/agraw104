@@ -5,15 +5,15 @@
 
 - 👯 I’m looking to collaborate on **on anything that challenges my Python skills.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/agraw104?tab=repositories&q=&type=&language=&sort=name](https://github.com/agraw104?tab=repositories&q=&type=&language=&sort=name)
+- 👨‍💻 All of my projects are available at [My Repository (Sorted by Name)](https://github.com/agraw104?tab=repositories&q=&type=&language=&sort=name)
 
-- 📝 I am most active on [https://www.linkedin.com/in/pavan-agrawal/](https://www.linkedin.com/in/pavan-agrawal/)
+- 📝 I am most active on [LinkedIn](https://www.linkedin.com/in/pavan-agrawal/)
 
 - 💬 Ask me about **Power BI, Tableau, SQL, and Python.**
 
 - 📫 How to reach me **agraw104@gmail.com**
 
-- ⚡ Fun fact **I can speak 4 languages - English, Hindi, Gujarati, and Marwari.**
+- ⚡ Fun fact **Apart from the programming languages, I can speak 4 languages - English, Hindi, Gujarati, and Marwari.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
