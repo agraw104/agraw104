@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pavan!</h1>
-<h3 align="center">A passionate construction analytics professional!</h3>
+# Hi 👋, I'm Pavan!
+## A passionate construction analytics professional!
 
 - 🌱 I’m currently learning to **create custom data visualizations for Power BI.**
 
