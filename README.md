@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **on anything that challenges my Python skills.**
 
-- 👨‍💻 All of my projects are available at [my GitHub repository (sorted by name)](https://github.com/agraw104?tab=repositories&q=&type=&language=&sort=name).
+- 👨‍💻 All of my projects are available at [my GitHub repository](https://github.com/agraw104?tab=repositories).
 
 - 📝 I am most active on [LinkedIn](https://www.linkedin.com/in/pavan-agrawal/).
 
