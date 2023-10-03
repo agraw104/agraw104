@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **on anything that challenges my Python skills.**
 
-- 👨‍💻 All of my projects are available at [my GitHub repository](https://github.com/agraw104?tab=repositories).
+- 👨‍💻 All of my projects are available at [my repository](https://github.com/agraw104?tab=repositories).
 
 - 📝 I am most active on [LinkedIn](https://www.linkedin.com/in/pavan-agrawal/).
 
@@ -50,10 +50,10 @@
 
 <h4 align="left">Automation:</h3>
 <p align="left"> 
+  <a href="https://powerautomate.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/PowerAutomate-2020-icon-1024x1024.png" alt="PowerAutomate" width="40" height="40"/> </a> 
   <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> 
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
-
 
 
 
