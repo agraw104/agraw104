@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **agraw104@gmail.com**
 
-- ⚡ Fun fact: I can speak 4 languages - English, Hindi, Gujarati, and Marwari - apart from Python. 😋
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pavan-agrawal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavan-agrawal/" height="30" width="40" /></a>
