@@ -40,10 +40,12 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 
-<h4 align="left">Data Visualization:</h3>
+<h4 align="left">Data Visualization | Analytics Platforms:</h3>
 <p align="left"> 
+  <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest/scale-to-width-down/200?cb=20230528223239" alt="Microsoft Fabric" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="40" height="40"/> </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="40" height="40"/> </a>
+  
 </p>
 
 <h4 align="left">Automation:</h3>
